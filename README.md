@@ -1,5 +1,4 @@
-<img width="275" height="183" alt="images" src="https://github.com/user-attachments/assets/d0f98008-66fb-4b28-8a3b-dcbf7c711667" />
-
+<img width="1146" height="746" alt="image" src="https://github.com/user-attachments/assets/5ec1dc02-858d-420f-b6bf-a03436760328" />
 
 👥 Multi-Person Face Recognition System
 
