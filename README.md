@@ -11,6 +11,8 @@ A real-time face recognition system capable of detecting and identifying multipl
 💾 Stores and manages face datasets
 ⚡ Fast and efficient processing
 🔐 Can be extended for security/surveillance systems
+
+
 🛠️ Tech Stack
 Programming Language: Python
 Libraries Used:
@@ -18,6 +20,8 @@ OpenCV
 NumPy
 face_recognition (dlib-based)
 OS / Pickle (for dataset handling)
+
+
 
 
 📂 Project Structure
